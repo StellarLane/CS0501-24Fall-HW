@@ -6,10 +6,10 @@ using namespace std;
 class Node {
 public:
     int value;
-    int depth;
-    Node* parent;
+    int depth{0};
+    Node* parent{NULL};
     int available;
-    Node(int x) : value(x), depth(0), parent(NULL) {
+    Node(int x) : value(x) {
         available = x == -1 ? 0 : 2;
     }
 };
