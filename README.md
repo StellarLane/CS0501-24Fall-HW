@@ -23,3 +23,8 @@ hw4:
  - 2454 [捕鱼达人](https://acm.sjtu.edu.cn/OnlineJudge/problem/2454)
  - 2464 [森林中的可达节点](https://acm.sjtu.edu.cn/OnlineJudge/problem/2464)
  - 12100 [哈夫曼树](https://acm.sjtu.edu.cn/OnlineJudge/problem/12100)
+
+hw5:
+ - 2470 [热门帖子](https://acm.sjtu.edu.cn/OnlineJudge/problem/2470)
+ - 2491 [简单丑数](https://acm.sjtu.edu.cn/OnlineJudge/problem/2491)
+   https://acm.sjtu.edu.cn/OnlineJudge/problem/1310
