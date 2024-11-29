@@ -27,4 +27,4 @@ hw4:
 hw5:
  - 2470 [热门帖子](https://acm.sjtu.edu.cn/OnlineJudge/problem/2470)
  - 2491 [简单丑数](https://acm.sjtu.edu.cn/OnlineJudge/problem/2491)
-   https://acm.sjtu.edu.cn/OnlineJudge/problem/1310
+ - 1310 [会议室安排](https://acm.sjtu.edu.cn/OnlineJudge/problem/1310)
