@@ -28,3 +28,8 @@ hw5:
  - 2470 [热门帖子](https://acm.sjtu.edu.cn/OnlineJudge/problem/2470)
  - 2491 [简单丑数](https://acm.sjtu.edu.cn/OnlineJudge/problem/2491)
  - 1310 [会议室安排](https://acm.sjtu.edu.cn/OnlineJudge/problem/1310)
+
+hw6:
+ - 2218 [二叉查找树的最小绝对差](https://acm.sjtu.edu.cn/OnlineJudge/problem/2218)
+ - 2495(**TLE**) [笔记解密](https://acm.sjtu.edu.cn/OnlineJudge/problem/2495)
+ - 11051 [静态查找表](https://acm.sjtu.edu.cn/OnlineJudge/problem/11051)
