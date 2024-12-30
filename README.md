@@ -33,3 +33,7 @@ hw6:
  - 2218 [二叉查找树的最小绝对差](https://acm.sjtu.edu.cn/OnlineJudge/problem/2218)
  - 2495(**TLE**) [笔记解密](https://acm.sjtu.edu.cn/OnlineJudge/problem/2495)
  - 11051 [静态查找表](https://acm.sjtu.edu.cn/OnlineJudge/problem/11051)
+
+hw7:
+ - 2499 [乌萨奇想排序](https://acm.sjtu.edu.cn/OnlineJudge/problem/2499)
+ - 2383 [赛博坦排序](https://acm.sjtu.edu.cn/OnlineJudge/problem/2383)
